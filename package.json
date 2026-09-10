@@ -1,0 +1,9 @@
+{
+  "name": "the-adop-v4-real-ai",
+  "version": "4.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
